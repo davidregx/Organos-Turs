@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a1f0fa1.css",
-    "main.js": "/static/js/main.a8bacdee.js",
-    "index.html": "/index.html",
-    "main.3a1f0fa1.css.map": "/static/css/main.3a1f0fa1.css.map",
-    "main.a8bacdee.js.map": "/static/js/main.a8bacdee.js.map"
+    "main.css": "/Organos-Turs/static/css/main.3a1f0fa1.css",
+    "main.js": "/Organos-Turs/static/js/main.a8bacdee.js",
+    "index.html": "/Organos-Turs/index.html",
+    "main.3a1f0fa1.css.map": "/Organos-Turs/static/css/main.3a1f0fa1.css.map",
+    "main.a8bacdee.js.map": "/Organos-Turs/static/js/main.a8bacdee.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1f0fa1.css",
